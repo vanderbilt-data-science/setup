@@ -25,9 +25,6 @@ Visit the ACCRE page (https://www.vanderbilt.edu//accre/) for more information a
 
 If you are running MacOS, you already have access to Linux on your machine. If you are running Windows, you can enable Windows Subsystem for Linux. Follow the instructions at https://docs.microsoft.com/en-us/windows/wsl/install-win10. To run PowerShell as administrator (the first step in the documentation), tap the Windows key, then type `powershell`. Select `Run as Administrator` to the right. Continue with the instructions.
 
-## Building Tour
-
-Take a walk and learn about the home of the Data Science Institute! 
 
 ## Install R
 
@@ -69,6 +66,10 @@ New installations of git on MacOS and Windows SHOULD make use of built-in authen
 ## Printer Setup
 
 The printer in the DSI common is available for your use. It is DSI_Engineering_300 on print.it.vanderbilt.edu. 
+
+## Building Tour
+
+Take a walk and learn about the home of the Data Science Institute! Information on our LEED Gold-certified home is at https://www.vanderbilt.edu/esb/. 
 
 ## Coffee Maker
 
