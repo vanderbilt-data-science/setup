@@ -15,7 +15,7 @@ Visit https://forms.gle/5s6hjFNHCYP8rFtUA and record your GitHub login. You'll b
 
 Visit the ACCRE Getting Started page (https://www.vanderbilt.edu/accre/getting-started/) to register for an account. 
 
-Request an account by visiting the ACCRE New Account page (https://www.accre.vanderbilt.edu/?page_id=3563). For Department, select `Data Science Institute`. For School or Affiliation, choose `Trans-Institutional Programs (e.g. Data Science Institute). For Group, select `Data Science Institute (p_dsi)`. For primary application, choose `Existing application`. For application, select `Jupyter`. Enter that you anticipate running one job at a time. Indicate your level of Linux experience (if you're not already, you'll be Intermediate by the end of the semester, and Expert by the end of the Master's program!). You can enter `R, Python` for languages, and can leave the rest of the responses unfilled. Answer the Captcha question at the end, and send. 
+Request an account by visiting the ACCRE New Account page (https://www.accre.vanderbilt.edu/?page_id=3563). For Department, select `Data Science Institute`. For School or Affiliation, choose `Trans-Institutional Programs (e.g. Data Science Institute)`. For Group, select `Data Science Institute (p_dsi)`. For primary application, choose `Existing application`. For application, select `Jupyter`. Enter that you anticipate running one job at a time. Indicate your level of Linux experience (if you're not already, you'll be Intermediate by the end of the semester, and Expert by the end of the Master's program!). You can enter `R, Python` for languages, and can leave the rest of the responses unfilled. Answer the Captcha question at the end, and send. 
 
 We'll authorize your access as soon as possible. 
 
