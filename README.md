@@ -65,7 +65,7 @@ New installations of git on MacOS and Windows SHOULD make use of built-in authen
 
 ## Printer Setup
 
-The printer in the DSI common is available for your use. It is DSI_Engineering_300 on print.it.vanderbilt.edu. 
+The printer in the DSI common is available for your use. It is \\print.it.vanderbilt.edu\DSI_Engineering_300. 
 
 To add the printer on a Mac, follow these  [directions](https://github.com/vanderbilt-data-science-masters-program/setup/blob/master/dsi_printer_setup_mac.md).
 
