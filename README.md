@@ -81,6 +81,8 @@ You should have received an invitation to join our Slack team, https://vandydata
 
 As a DSI student, you have free access to the coffee machine in the common kitchen area. It is a Jura Impressa S9, and the operating manual is here https://us.jura.com/en/homeproducts/machines/IMPRESSA-S9-Classic-UL-13674/Manuals. 
 
+The coffee maker can make extra hot water to make tea! The control is on the right-hand side--be sure to set it for exra-hot. 
+
 The ice maker is available for your use. The water reservoir can be refilled using the cold water from the tap. The cold water line is filtered. 
 
 
