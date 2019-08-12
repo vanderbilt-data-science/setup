@@ -45,7 +45,7 @@ install.packages("tidyverse")
 install.packages("janitor")
 install.packages("devtools")
 install.packages("assertr")
-install.packages("hmisc")
+install.packages("Hmisc")
 ```
 ## Anaconda
 
