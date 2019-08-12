@@ -44,7 +44,7 @@ Once R and RStudio are download, load RStudio, and copy-paste the following code
 install.packages("tidyverse")
 install.packages("janitor")
 install.packages("devtools")
-install.packages("assetr")
+install.packages("assertr")
 install.packages("hmisc")
 ```
 ## Anaconda
