@@ -77,8 +77,10 @@ Take a walk and learn about the home of the Data Science Institute! Information 
 
 You should have received an invitation to join our Slack team, https://vandydatasciencems.slack.com. If you've note alread done so, downloading the Slack phone app lets you keep up-to-date: https://slack.com/downloads/ios or https://slack.com/downloads/android. You can set your notifications by mention, or by any activity in a particular channel. 
 
-## Coffee Maker
+## Coffee Maker, Ice Maker, Filtered Water
 
 As a DSI student, you have free access to the coffee machine in the common kitchen area. It is a Jura Impressa S9, and the operating manual is here https://us.jura.com/en/homeproducts/machines/IMPRESSA-S9-Classic-UL-13674/Manuals. 
+
+The ice maker is available for your use. The water reservoir can be refilled using the cold water from the tap. The cold water line is filtered. 
 
 
