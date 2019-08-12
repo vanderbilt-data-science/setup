@@ -67,6 +67,8 @@ New installations of git on MacOS and Windows SHOULD make use of built-in authen
 
 The printer in the DSI common is available for your use. It is DSI_Engineering_300 on print.it.vanderbilt.edu. 
 
+To add the printer on a Mac, follow these  [directions](https://github.com/vanderbilt-data-science-masters-program/setup/blob/master/dsi_printer_setup_mac.md).
+
 ## Building Tour
 
 Take a walk and learn about the home of the Data Science Institute! Information on our LEED Gold-certified home is at https://www.vanderbilt.edu/esb/. 
@@ -79,4 +81,4 @@ You should have received an invitation to join our Slack team, https://vandydata
 
 As a DSI student, you have free access to the coffee machine in the common kitchen area. It is a Jura Impressa S9, and the operating manual is here https://us.jura.com/en/homeproducts/machines/IMPRESSA-S9-Classic-UL-13674/Manuals. 
 
-Coffee maker 
+
