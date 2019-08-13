@@ -69,6 +69,9 @@ The printer in the DSI common is available for your use. It is DSI_Engineering_3
 
 To add the printer on a Mac, follow these  [directions](https://github.com/vanderbilt-data-science-masters-program/setup/blob/master/dsi_printer_setup_mac.md).
 
+To add a printer on a Windows machine, follow these 
+[directions](https://github.com/vanderbilt-data-science-masters-program/setup/blob/master/dsi_printer_setup_windows.md).
+
 ## Building Tour
 
 Take a walk and learn about the home of the Data Science Institute! Information on our LEED Gold-certified home is at https://www.vanderbilt.edu/esb/. 
