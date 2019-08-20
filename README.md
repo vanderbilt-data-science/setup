@@ -63,6 +63,12 @@ Set up your profile for your local git by following the directions at https://ha
 
 New installations of git on MacOS and Windows SHOULD make use of built-in authentication so that you will not need to log into GitHub each time you perform an operation on a remote repo. It you find yourself having to sign in to GitHub when pushing or pulling, follow the guidelines at https://happygitwithr.com/connect-intro.html to set up caching or SSH keys. 
 
+## Testing Out Git/GitHub/RStudio
+
+To test out whether RStudio is integrated with git on your computer, we will clone the repository locally to your computer. 
+
+Click on the green "Clone or download" button on this page, and copy the web URL listed there. Start up RStudio, click on 'File' on the menu, select 'New Project', the click on 'Version Control', 'Git', and paste the URL into the Repository URL field. If this repo is downloaded as an R project, your integration has worked. If not, put up your Problem Sticky for assistance. 
+
 ## Printer Setup
 
 The printer in the DSI common is available for your use. It is \\print.it.vanderbilt.edu\DSI_Engineering_300. 
