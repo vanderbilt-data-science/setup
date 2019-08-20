@@ -69,6 +69,10 @@ To test out whether RStudio is integrated with git on your computer, we will clo
 
 Click on the green "Clone or download" button on this page, and copy the web URL listed there. Start up RStudio, click on 'File' on the menu, select 'New Project', the click on 'Version Control', 'Git', and paste the URL into the Repository URL field. If this repo is downloaded as an R project, your integration has worked. If not, put up your Problem Sticky for assistance. 
 
+## TopHat Setup
+
+Vanderbilt University has a site license for TopHat (https://www.vanderbilt.edu/tophat/). Take a few minutes and set up a student account. 
+
 ## Printer Setup
 
 The printer in the DSI common is available for your use. It is \\print.it.vanderbilt.edu\DSI_Engineering_300. 
