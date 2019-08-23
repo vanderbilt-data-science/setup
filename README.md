@@ -63,6 +63,11 @@ Set up your profile for your local git by following the directions at https://ha
 
 New installations of git on MacOS and Windows SHOULD make use of built-in authentication so that you will not need to log into GitHub each time you perform an operation on a remote repo. It you find yourself having to sign in to GitHub when pushing or pulling, follow the guidelines at https://happygitwithr.com/connect-intro.html to set up caching or SSH keys. 
 
+If you are on a Mac, and are not able to access git from RStudio, execute the following commands from with a terminal window:
+
+xcode-select --install  
+sudo xcode-select -switch /Library/Developer/CommandLineTools
+
 ## Testing Out Git/GitHub/RStudio
 
 To test out whether RStudio is integrated with git on your computer, we will clone the repository locally to your computer. 
