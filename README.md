@@ -72,7 +72,7 @@ sudo xcode-select -switch /Library/Developer/CommandLineTools
 
 To test out whether RStudio is integrated with git on your computer, we will clone the repository locally to your computer. 
 
-Click on the green "Clone or download" button on this page, and copy the web URL listed there. Start up RStudio, click on 'File' on the menu, select 'New Project', the click on 'Version Control', 'Git', and paste the URL into the Repository URL field. If this repo is downloaded as an R project, your integration has worked. If not, put up your Problem Sticky for assistance. 
+Click on the green "Code" button on this page, and copy the web URL listed there. Start up RStudio, click on 'File' on the menu, select 'New Project', the click on 'Version Control', 'Git', and paste the URL into the Repository URL field. If this repo is downloaded as an R project, your integration has worked. If not, e-mail us to let us know (go ahead and e-mail jesse.spencer-smith@vanderbilt.edu, and we'll get you sorted out). 
 
 ## TopHat Setup
 
