@@ -3,7 +3,7 @@ Software installation and configuration for new Data Science Master's students
 
 ## Secure Passwords
 
-You'll need to create up to three new passwords today. In order to ensure security for yourself, Vanderbilt systems, and for data you will be entrusted with when you take on projects, you'll want to have strong, unique passwords for each system. I suggest you use a password service. See https://www.cnet.com/news/the-best-password-managers-of-2019/ for an overview of options. 
+You'll need to create up to three new passwords today. In order to ensure security for yourself, Vanderbilt systems, and for data you will be entrusted with when you take on projects, you'll want to have strong, unique passwords for each system. I suggest you use a password service. See https://www.pcmag.com/picks/the-best-password-managers for an overview of options. 
 
 ## GitHub Signup
 
@@ -13,7 +13,9 @@ Visit https://forms.gle/5s6hjFNHCYP8rFtUA and record your GitHub login. You'll b
 
 ## Computing Cluster Signup
 
-Visit the ACCRE Getting Started page (https://www.vanderbilt.edu/accre/getting-started/) to register for an account. 
+First, fill out the DSI ACCRE User Request (https://docs.google.com/forms/d/e/1FAIpQLSdq_nH0Uh1FPYK_rEy0SrjOmq0QLVbtrB3d4ATw7T2jl1hB8A/viewform?usp=pp_url&entry.2093445069=Gain+initial+access&entry.569522550=Vanderbilt+University&entry.214464906=Graduate+Student&entry.1625534817=Data+Science+Institute&entry.770754170=Data+Science+Masters+Program&entry.731100203=I+am+a+DSI+Masters+student&entry.63099455=Masters&entry.1868768115=NA&entry.1931106258=2023-05-20). 
+
+Then, visit the ACCRE Getting Started page (https://www.vanderbilt.edu/accre/getting-started/) to register for an account. 
 
 Request an account by visiting the ACCRE New Account page (https://www.accre.vanderbilt.edu/?page_id=3563). For Department, select `Data Science Institute`. For School or Affiliation, choose `Trans-Institutional Programs (e.g. Data Science Institute)`. For Group, select `Data Science Institute (p_dsi)`. For primary application, choose `Existing application`. For application, select `Jupyter`. Enter that you anticipate running one job at a time. Indicate your level of Linux experience (if you're not already, you'll be Intermediate by the end of the semester, and Expert by the end of the Master's program!). You can enter `R, Python` for languages, and can leave the rest of the responses unfilled. Answer the Captcha question at the end, and send. 
 
