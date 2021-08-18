@@ -40,6 +40,11 @@ Download RStudio from the RStudio site (https://www.rstudio.com/products/rstudio
 
 ## Install R Packages
 
+Install Rtools so that you can compile the necessary packages as needed:
+
+
+https://cran.rstudio.com/bin/windows/Rtools/
+
 Once R and RStudio are download, load RStudio, and copy-paste the following code in the console:
 
 ```r
