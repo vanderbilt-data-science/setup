@@ -30,13 +30,13 @@ If you are running MacOS, you already have access to Linux on your machine. If y
 
 ## Install R
 
-Download and install R from RStudio's CRAN mirror (https://cran.rstudio.com/). Follow the link for your operating system, and select the latest Base release, which will be 3.6.1 or greater. Once the file is downloaded, install the software.   
+Download and install R from RStudio's CRAN mirror (https://cran.rstudio.com/). Follow the link for your operating system, and select the latest Base release, which will be 4.1.1 or greater. Once the file is downloaded, install the software.   
 
 Also download and install Rtools if you are on Windows--you will find the link below Base on the list.
 
 ## Install RStudio
 
-Download RStudio from the RStudio site (https://www.rstudio.com/products/rstudio/download/#download). Select your operating system, and install the software after download is complete. For Windows, select RStudio 1.2.1335 - Windows 7+ (64-bit). For Mac, select RStudio 1.2.1335 - macOS 10.12+ (64-bit). 
+Download RStudio from the RStudio site (https://www.rstudio.com/products/rstudio/download/#download). Select your operating system, and install the software after download is complete. For Windows, select RStudio 1.4.1717 - Windows 7+ (64-bit). For Mac, select RStudio - macOS 10.12+ (64-bit). 
 
 ## Install R Packages
 
@@ -44,6 +44,7 @@ Once R and RStudio are download, load RStudio, and copy-paste the following code
 
 ```r
 install.packages("tidyverse")
+install.packages("tidymodels")
 install.packages("janitor")
 install.packages("devtools")
 install.packages("assertr")
@@ -80,7 +81,7 @@ Click on the green "Code" button on this page, and copy the web URL listed there
 
 Vanderbilt University has a site license for TopHat (https://www.vanderbilt.edu/tophat/). Take a few minutes and set up a student account. 
 
-## Printer Setup
+## Printer Setup  **Skip for now**
 
 The printer in the DSI common is available for your use. It is \\print.it.vanderbilt.edu\DSI_Engineering_300. 
 
@@ -96,6 +97,8 @@ Take a walk and learn about the home of the Data Science Institute! Information 
 ## Slack
 
 You should have received an invitation to join our Slack team, https://vandydatasciencems.slack.com. If you've note alread done so, downloading the Slack phone app lets you keep up-to-date: https://slack.com/downloads/ios or https://slack.com/downloads/android. You can set your notifications by mention, or by any activity in a particular channel. 
+
+Be sure that you're also in the Data Science TIP Slack organization which is our main Slack org for data science work: https://datasciencetip.slack.com/ .
 
 ## Coffee Maker, Ice Maker, Filtered Water
 
