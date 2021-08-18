@@ -92,7 +92,7 @@ To add a printer on a Windows machine, follow these
 
 ## Building Tour
 
-Take a walk and learn about the home of the Data Science Institute! Information on our LEED Gold-certified home is at https://www.vanderbilt.edu/esb/. 
+Take a walk and learn about the home of the Data Science Institute!  
 
 ## Slack
 
