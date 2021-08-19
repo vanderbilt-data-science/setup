@@ -40,12 +40,7 @@ Download RStudio from the RStudio site (https://www.rstudio.com/products/rstudio
 
 ## Install R Packages
 
-Install Rtools so that you can compile the necessary packages as needed:
-
-
-https://cran.rstudio.com/bin/windows/Rtools/
-
-Once R and RStudio are download, load RStudio, and copy-paste the following code in the console:
+If you are running Windows, install Rtools so that you can compile the necessary packages as needed. Go to https://cran.r-project.org/bin/windows/Rtools/ and download the 64 bit version. Click on the file after it downloads to install. When you are finished, copy the code below and paste it into the Console of RStudio. 
 
 ```r
 install.packages("tidyverse")
