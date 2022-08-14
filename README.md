@@ -13,7 +13,7 @@ Visit https://forms.gle/5s6hjFNHCYP8rFtUA and record your GitHub login. You'll b
 
 ## Computing Cluster Signup
 
-First, fill out the DSI ACCRE User Request (https://docs.google.com/forms/d/e/1FAIpQLSdq_nH0Uh1FPYK_rEy0SrjOmq0QLVbtrB3d4ATw7T2jl1hB8A/viewform?usp=pp_url&entry.2093445069=Gain+initial+access&entry.569522550=Vanderbilt+University&entry.214464906=Graduate+Student&entry.1625534817=Data+Science+Institute&entry.770754170=Data+Science+Masters+Program&entry.731100203=I+am+a+DSI+Masters+student&entry.63099455=Masters&entry.1868768115=NA&entry.1931106258=2023-05-20). 
+First, fill out the DSI ACCRE User Request (https://docs.google.com/forms/d/e/1FAIpQLSdq_nH0Uh1FPYK_rEy0SrjOmq0QLVbtrB3d4ATw7T2jl1hB8A/viewform?usp=pp_url&entry.2093445069=Gain+initial+access&entry.569522550=Vanderbilt+University&entry.214464906=Graduate+Student&entry.1625534817=Data+Science+Institute&entry.770754170=Data+Science+Masters+Program&entry.731100203=I+am+a+DSI+Masters+student&entry.63099455=Masters&entry.1868768115=NA&entry.1931106258=2024-05-20). 
 
 Then, visit the ACCRE Getting Started page (https://www.vanderbilt.edu/accre/getting-started/) to register for an account. 
 
@@ -30,13 +30,13 @@ If you are running MacOS, you already have access to Linux on your machine. If y
 
 ## Install R
 
-Download and install R from RStudio's CRAN mirror (https://cran.rstudio.com/). Follow the link for your operating system, and select the latest Base release, which will be 4.1.1 or greater. Once the file is downloaded, install the software.   
+Download and install R from RStudio's CRAN mirror (https://cran.rstudio.com/). Follow the link for your operating system, and select the latest Base release, which will be 4.2.1 or greater. Once the file is downloaded, install the software.   
 
 Also download and install Rtools if you are on Windows--you will find the link below Base on the list.
 
 ## Install RStudio
 
-Download RStudio from the RStudio site (https://www.rstudio.com/products/rstudio/download/#download). Select your operating system, and install the software after download is complete. For Windows, select RStudio 1.4.1717 - Windows 7+ (64-bit). For Mac, select RStudio - macOS 10.12+ (64-bit). 
+Download RStudio from the RStudio site (https://www.rstudio.com/products/rstudio/download/#download). Select your operating system, and install the software after download is complete. For Windows, select RStudio RStudio-2022.07.1-554.exe. For Mac, select RStudio-2022.07.1-554.dmg. 
 
 ## Install R Packages
 
@@ -83,7 +83,7 @@ Vanderbilt University has a site license for TopHat (https://www.vanderbilt.edu/
 
 ## Printer Setup  **Skip for now**
 
-The printer in the DSI common is available for your use. It is \\print.it.vanderbilt.edu\DSI_Engineering_300. 
+The printer in the DSI common area  is available for your use. It is \\print.it.vanderbilt.edu\DSI_Engineering_300. 
 
 To add the printer on a Mac, follow these  [directions](https://github.com/vanderbilt-data-science-masters-program/setup/blob/master/dsi_printer_setup_mac.md).
 
@@ -106,6 +106,5 @@ As a DSI student, you have free access to the coffee machine in the common kitch
 
 The coffee maker can make extra hot water to make tea! The control is on the right-hand side--be sure to set it for exra-hot. 
 
-The ice maker is available for your use. The water reservoir can be refilled using the cold water from the tap. The cold water line is filtered. 
-
+An ice maker is available for your use in the small kitchen area near the just past the restrooms. The fridge is available as well!
 
