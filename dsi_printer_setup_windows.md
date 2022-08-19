@@ -16,6 +16,6 @@ These instructions were created for Windows 10.
 8. Select 'The printer I want wasn't listed'
 9. Select 'Add a printer using a TCP/IP address or hostname'
 10. Click 'Next'
-11. Enter "10.16.120.39" into the Hostname or Address field
+11. Enter "10.68.0.77" into the Hostname or Address field
 12. Click 'OK'
 
