@@ -16,6 +16,6 @@ These instructions were created for MacOS Mojave 10.14 but should be similar for
 6. Go to System Preferences (you can find it in the Launchpad) and then Printers & Scanners (2nd row, 6th column)
 7. Click the + button in the bottom left
 8. In the new window (titled Add), hit the IP button in the top left
-9. Enter "10.16.120.39" into the Address field and "DSI_Engineering_300" into the Name field
+9. Enter "10.68.0.77" into the Address field and "DSI_Common_Area" into the Name field
 10. In the Use field, select "HP PageWide Pro 577 MFP" from the dropdown menu.
 10. Click Add in the bottom right
