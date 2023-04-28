@@ -88,7 +88,7 @@ The printer in the DSI common area  is available for your use. It is \\print.it.
 To add the printer on a Mac, follow these  [directions](https://github.com/vanderbilt-data-science-masters-program/setup/blob/master/dsi_printer_setup_mac.md).
 
 To add a printer on a Windows machine, follow these 
-[directions](https://github.com/vanderbilt-data-science-masters-program/setup/blob/master/dsi_printer_setup_windows.md).
+[directions]https://github.com/vanderbilt-data-science/setup/blob/master/dsi_printer_setup_windows.md).
 
 ## Building Tour
 
