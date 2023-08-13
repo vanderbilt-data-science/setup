@@ -3,7 +3,7 @@ Software installation and configuration for new Data Science Master's students
 
 ## Secure Passwords
 
-You'll need to create up to three new passwords today. In order to ensure security for yourself, Vanderbilt systems, and for data you will be entrusted with when you take on projects, you'll want to have strong, unique passwords for each system. I suggest you use a password service. See https://www.pcmag.com/picks/the-best-password-managers for an overview of options. 
+You'll need to create up to multiple new passwords today. In order to ensure security for yourself, Vanderbilt systems, and for data you will be entrusted with when you take on projects, you'll want to have strong, unique passwords for each system. I suggest you use a password service. See https://www.pcmag.com/picks/the-best-password-managers for an overview of options. 
 
 ## GitHub Signup
 
