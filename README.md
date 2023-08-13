@@ -48,6 +48,19 @@ See https://happygitwithr.com/install-git.html for step-by-step guidance.
 
 Set up your profile for your local git by following the directions at https://happygitwithr.com/hello-git.html. 
 
+## OpenAI ChatPlus 
+
+You will need a ChatPlus (paid) subscription to OpenAI. This will be the equivalent of a textbook for many or your courses. Go to the [OpenAI main page](https://openai.com/). 
+- Select Sign Up in the upper right corner.
+- Put in your Vanderbilt address, select continue.
+- Choose a secure password.
+- Enter in your payment information 
+
+## Edge Browser and Bing Chat Signup
+
+You will need to have access to multiple AI systems. To access the Microsoft version of GPT4, BingGPT, you'll need to download the Microsoft Edge browser, then sign up for Bing. 
+
+
 
 ## TopHat Setup
 
