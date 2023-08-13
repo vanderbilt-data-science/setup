@@ -9,7 +9,7 @@ You'll need to create up to multiple new passwords today. In order to ensure sec
 
 If you do not already have a GitHub account, please visit https://github.com/ and make one. See https://happygitwithr.com/github-acct.html for advice. 
 
-Visit https://forms.gle/5s6hjFNHCYP8rFtUA and record your GitHub login. 
+Fill in the [DSI Master Student Account Information Form](https://forms.gle/5s6hjFNHCYP8rFtUA) and record your GitHub login. 
 
 You'll be invited to both the Vanderbilt Data Science organization (https://github.com/vanderbilt-data-science) and the Vanderbilt Data Science Master's Program organization (https://github.com/vanderbilt-data-science-masters-program). 
 
