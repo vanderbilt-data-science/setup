@@ -78,7 +78,6 @@ As a DSI student, you have free access to the coffee machine in the common kitch
 
 The coffee maker can make extra hot water to make tea! The control is on the right-hand side--be sure to set it for exra-hot. 
 
-An ice maker is available for your use in the small kitchen area near the just past the restrooms. The fridge is available as well!
 
 # Optional
 
