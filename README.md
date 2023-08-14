@@ -64,7 +64,8 @@ You will need to have access to multiple AI systems. To access the Microsoft ver
 
 
 
-## TopHat Setup
+## TopHat Setup  **Skip for now**
+
 
 Vanderbilt University has a site license for TopHat (https://www.vanderbilt.edu/tophat/). Take a few minutes and set up a student account. 
 
