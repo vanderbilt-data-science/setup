@@ -19,7 +19,7 @@ First, fill out the [DSI ACCRE User Request](https://docs.google.com/forms/d/e/1
 
 Then, visit the ACCRE Getting Started page (https://www.vanderbilt.edu/accre/getting-started/) to register for an account. 
 
-Request an account by visiting the ACCRE New Account page (https://www.accre.vanderbilt.edu/?page_id=3563). 
+Request an account by visiting the ACCRE New Account page (https://dashboard.accre.vanderbilt.edu). 
 - For Department, select `Data Science Institute`.
 - For School or Affiliation, choose `Trans-Institutional Programs (e.g. Data Science Institute)`.
 - For Group, select `Data Science Institute (p_dsi)`. For primary application, choose `Existing application`.
