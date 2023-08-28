@@ -17,7 +17,7 @@ You'll be invited to both the Vanderbilt Data Science organization (https://gith
 
 First, fill out the [DSI ACCRE User Request](https://docs.google.com/forms/d/e/1FAIpQLSdq_nH0Uh1FPYK_rEy0SrjOmq0QLVbtrB3d4ATw7T2jl1hB8A/viewform?usp=pp_url&entry.2093445069=Gain+initial+access&entry.569522550=Vanderbilt+University&entry.214464906=Graduate+Student&entry.1625534817=Data+Science+Institute&entry.770754170=Data+Science+Masters+Program&entry.731100203=I+am+a+DSI+Masters+student&entry.63099455=Masters&entry.693746558=self&entry.1868768115=NA&entry.1931106258=2025-05-20) . 
 
-Then, visit the ACCRE Getting Started page (https://www.vanderbilt.edu/accre/getting-started/) to register for an account. 
+Then, visit the ACCRE page (https://dashboard.accre.vanderbilt.edu/) to register for an account. 
 
 Request an account by visiting the ACCRE New Account page (https://dashboard.accre.vanderbilt.edu). 
 - For Department, select `Data Science Institute`.
