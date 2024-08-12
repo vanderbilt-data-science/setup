@@ -18,7 +18,7 @@ You'll be invited to both the Vanderbilt Data Science organization (https://gith
 
 ## Anaconda
 
-Visit https://www.anaconda.com/distribution/ and click on `Download`. Select your operating system from the icons on the bar on the top of the page (the default is MacOS). Select the 64 bit Graphical Installer. Execute the software once it is downloaded.  
+Visit [https://www.anaconda.com/distribution/](https://www.anaconda.com/download) and enter your email. Select your operating system from the icons on the bar on the top of the page (the default is MacOS). Select the 64 bit Graphical Installer. Execute the software once it is downloaded.  
 
 ##  Git Install
 
