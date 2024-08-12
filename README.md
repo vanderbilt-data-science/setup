@@ -13,29 +13,7 @@ Fill in the [DSI Master Student Account Information Form](https://forms.gle/5s6h
 
 You'll be invited to both the Vanderbilt Data Science organization (https://github.com/vanderbilt-data-science) and the Vanderbilt Data Science Master's Program organization (https://github.com/vanderbilt-data-science-masters-program). 
 
-## Computing Cluster Signup
 
-First, fill out the [DSI ACCRE User Request](https://docs.google.com/forms/d/e/1FAIpQLSdq_nH0Uh1FPYK_rEy0SrjOmq0QLVbtrB3d4ATw7T2jl1hB8A/viewform?usp=pp_url&entry.2093445069=Gain+initial+access&entry.569522550=Vanderbilt+University&entry.214464906=Graduate+Student&entry.1625534817=Data+Science+Institute&entry.770754170=Data+Science+Masters+Program&entry.731100203=I+am+a+DSI+Masters+student&entry.63099455=Masters&entry.693746558=self&entry.1868768115=NA&entry.1931106258=2025-05-20) . 
-
-Then, visit the ACCRE page (https://dashboard.accre.vanderbilt.edu/) to register for an account. 
-
-Request an account by visiting the ACCRE New Account page (https://dashboard.accre.vanderbilt.edu). 
-- For Department, select `Data Science Institute`.
-- For School or Affiliation, choose `Trans-Institutional Programs (e.g. Data Science Institute)`.
-- For Group, select `Data Science Institute (p_dsi)`. For primary application, choose `Existing application`.
-- For application, select `Jupyter`.
-- Enter that you anticipate running one job at a time.
-- ndicate your level of Linux experience (if you're not already, you'll be Intermediate by the end of the semester, and Expert by the end of the Master's program!).
-- You can enter `Python` for languages, and can leave the rest of the responses unfilled.
-- Answer the Captcha question at the end, and send. 
-
-We'll authorize your access as soon as possible. 
-
-Visit the ACCRE page (https://www.vanderbilt.edu//accre/) for more information about the cluster. We'll be arranging trainings for the class on using the cluster. 
-
-## Linux On Your Desktop (optional)
-
-If you are running MacOS, you already have access to Linux on your machine. If you are running Windows, you can enable Windows Subsystem for Linux. Follow the instructions at https://docs.microsoft.com/en-us/windows/wsl/install-win10. To run PowerShell as administrator (the first step in the documentation), tap the Windows key, then type `powershell`. Select `Run as Administrator` to the right. Continue with the instructions.
 
 
 ## Anaconda
@@ -58,16 +36,10 @@ You will need a ChatPlus (paid) subscription to OpenAI. This will be the equival
 - Choose a secure password.
 - Enter in your payment information 
 
-## Edge Browser and Bing Chat Signup
+## Linux On Your Desktop (optional)
 
-You will need to have access to multiple AI systems. To access the Microsoft version of GPT4, BingGPT, you'll need to download the Microsoft Edge browser, then sign up for Bing. 
+If you are running MacOS, you already have access to Linux on your machine. If you are running Windows, you can enable Windows Subsystem for Linux. Follow the instructions at https://docs.microsoft.com/en-us/windows/wsl/install-win10. To run PowerShell as administrator (the first step in the documentation), tap the Windows key, then type `powershell`. Select `Run as Administrator` to the right. Continue with the instructions.
 
-
-
-## TopHat Setup  **Skip for now**
-
-
-Vanderbilt University has a site license for TopHat (https://www.vanderbilt.edu/tophat/). Take a few minutes and set up a student account. 
 
 ## Printer Setup  **Skip for now**
 
@@ -94,8 +66,6 @@ As a DSI student, you have free access to the coffee machine in the common kitch
 
 The coffee maker can make extra hot water to make tea! The control is on the right-hand side--be sure to set it for exra-hot. 
 
-
-# Optional
 
 ## Install R
 
