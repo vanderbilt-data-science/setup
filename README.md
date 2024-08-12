@@ -73,11 +73,11 @@ Download and install R from RStudio's CRAN mirror (https://cran.rstudio.com/). F
 
 Also download and install Rtools if you are on Windows--you will find the link below Base on the list.
 
-## Install RStudio
+### Install RStudio
 
 Download RStudio from the RStudio site (https://www.rstudio.com/products/rstudio/download/#download). Select your operating system, and install the software after download is complete. For Windows, select RStudio RStudio-2022.07.1-554.exe. For Mac, select RStudio-2022.07.1-554.dmg. 
 
-## Install R Packages
+### Install R Packages
 
 If you are running Windows, install Rtools so that you can compile the necessary packages as needed. Go to https://cran.r-project.org/bin/windows/Rtools/ and download the 64 bit version. Click on the file after it downloads to install. When you are finished, copy the code below and paste it into the Console of RStudio. 
 
@@ -89,17 +89,24 @@ install.packages("devtools")
 install.packages("assertr")
 install.packages("Hmisc")
 ```
-## Connecting R to GitHub
+### Connecting R to GitHub
 
 New installations of git on MacOS and Windows SHOULD make use of built-in authentication so that you will not need to log into GitHub each time you perform an operation on a remote repo. It you find yourself having to sign in to GitHub when pushing or pulling, follow the guidelines at https://happygitwithr.com/connect-intro.html to set up caching or SSH keys. 
 
 If you are on a Mac, and are not able to access git from RStudio, execute the following commands from with a terminal window:
 
 xcode-select --install  
+
 sudo xcode-select -switch /Library/Developer/CommandLineTools
 
-## Testing Out Git/GitHub/RStudio
+### Testing Out Git/GitHub/RStudio
 
 To test out whether RStudio is integrated with git on your computer, we will clone the repository locally to your computer. 
 
 Click on the green "Code" button on this page, and copy the web URL listed there. Start up RStudio, click on 'File' on the menu, select 'New Project', the click on 'Version Control', 'Git', and paste the URL into the Repository URL field. If this repo is downloaded as an R project, your integration has worked. If not, e-mail us to let us know (go ahead and e-mail jesse.spencer-smith@vanderbilt.edu, and we'll get you sorted out). 
+
+## VS Code Download
+You'll be using VS Code for your first year programming course. You can [install VS Code](https://code.visualstudio.com/download) using the Download button for your system on this page.
+
+## Huggingface Account
+We'll be exploring the latest in AI architectures and approaches during the bootcamp. For this, you'll need a Huggingface account. The free account is sufficient. Sign up at [Huggingface.co](https://huggingface.co) using the Sign Up button at the top of the screen.
