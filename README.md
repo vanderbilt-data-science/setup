@@ -28,6 +28,21 @@ See https://happygitwithr.com/install-git.html for step-by-step guidance.
 
 Set up your profile for your local git by following the directions at https://happygitwithr.com/hello-git.html. 
 
+## Connecting to Git via SSH keys
+
+Past methods used passwords to connect to github via the CLI. SSH keys provide a more secure connection to GitHub over unsecured networks. Please follow the instructions below to create an SSH key and add it to GitHub.  
+
+1. Open a new terminal/bash shell
+2. Type in the following command to create a new ssh key: ssh-keygen -t ed25519 -C "your_email@example.com"
+   This creates a new SSH key, using the provided email as a label.
+   When you're prompted to "Enter a file in which to save the key", you can press Enter to accept the default file location.  Please note that if you created SSH keys previously, ssh-keygen may ask you to rewrite another key, in which case we recommend creating a custom-named SSH key. To do so, type the default file location and replace id_ALGORITHM with your custom key name.
+3. Navigate to where you just saved your new SSH key ``` cd ~/.ssh```
+4. Open the ```id_ed25519.pub``` file (```cat id_ed25519.pub```). Copy the resulting output. It should look something like ```ssh-ed25519 AAHFBSJ287t....```
+5. Navigate to GitHub settings > SSH and GPG Keys: https://github.com/settings/keys
+6. Click "New SSH Key"
+7. Give your key a useful title and paste in your SSH key .pub file contents.
+8. Add your SSH key. You can now use GitHub using your machine from the command line. 
+
 ## OpenAI ChatPlus 
 
 You will need a ChatPlus (paid) subscription to OpenAI. This will be the equivalent of a textbook for many or your courses. Go to the [OpenAI main page](https://openai.com/). 
