@@ -43,7 +43,13 @@ Past methods used passwords to connect to github via the CLI. SSH keys provide a
 7. Click "New SSH Key"
 8. Give your key a useful title and paste in your SSH key .pub file contents. Ensure it lists it as an Authentication Key and not a Signing Key.  
 9. Add your SSH key. You can now use GitHub using your machine from the command line.
-10. To verify that this works, try and clone this repository to your computer. Go to the repository home page (Click <> Code in the menubar above), click the big green button that says <> Code, select SSH and copy the resulting URL. Now, go to your terminal, navigate (```cd Desktop```) to a directory of your choice and type in ```git clone <paste here>```. If setup correctly, you should have successfully cloned the repository. 
+10. To verify that this works, try and clone this repository to your computer. Go to the repository home page (Click <> Code in the menubar above), click the big green button that says <> Code, select SSH and copy the resulting URL. Now, go to your terminal, navigate (```cd /Desktop```) to a directory of your choice and type in ```git clone <paste here>```. You will get the following warning:
+
+   ```Cloning into 'setup'... The authenticity of host 'github.com (140.82.113.3)' can't be established. ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU. This key is not known by any other names. Are you sure you want to continue connecting (yes/no/[fingerprint])?```
+
+   You will want to say "yes" and then hit enter. Provide your ssh key passphrase when prompted. 
+
+If setup correctly, you should have successfully cloned the repository. 
 
 ## OpenAI ChatPlus 
 
