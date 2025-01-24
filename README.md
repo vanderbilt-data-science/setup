@@ -33,7 +33,7 @@ Set up your profile for your local git by following the directions at https://ha
 Past methods used passwords to connect to github via the CLI. SSH keys provide a more secure connection to GitHub over unsecured networks. Please follow the instructions below to create an SSH key and add it to GitHub.  
 
 1. Open a new terminal/bash shell
-2. Type in the following command to create a new ssh key: ssh-keygen -t ed25519 -C "your_email@example.com"
+2. Type in the following command to create a new ssh key: ```ssh-keygen -t ed25519 -C "your_email@example.com"```  
    This creates a new SSH key, using the provided email as a label.
    When you're prompted to "Enter a file in which to save the key", you can press Enter to accept the default file location.  Please note that if you created SSH keys previously, ssh-keygen may ask you to rewrite another key, in which case we recommend creating a custom-named SSH key. To do so, type the default file location and replace id_ALGORITHM with your custom key name.
 3. Navigate to where you just saved your new SSH key ``` cd ~/.ssh```
