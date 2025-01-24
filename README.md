@@ -38,10 +38,10 @@ Past methods used passwords to connect to github via the CLI. SSH keys provide a
    When you're prompted to "Enter a file in which to save the key", you can press Enter to accept the default file location.  Please note that if you created SSH keys previously, ssh-keygen may ask you to rewrite another key, in which case we recommend creating a custom-named SSH key. To do so, type the default file location and replace id_ALGORITHM with your custom key name.
 3. Be sure to create a strong passphrase. This will be your passphrase for this ssh key. Save this somewhere safe like a password manager. 
 4. Navigate to where you just saved your new SSH key ``` cd ~/.ssh```
-5. Open the ```id_ed25519.pub``` file (```cat id_ed25519.pub```). Copy the resulting output. It should look something like ```ssh-ed25519 AAHFBSJ287t....```
+5. Open the ```id_ed25519.pub``` file (```cat id_ed25519.pub```). Copy the resulting output. It should look something like ```ssh-ed25519 AAHFBSJ287t....your_email@example.com```
 6. Navigate to GitHub settings > SSH and GPG Keys: https://github.com/settings/keys
 7. Click "New SSH Key"
-8. Give your key a useful title and paste in your SSH key .pub file contents.
+8. Give your key a useful title and paste in your SSH key .pub file contents. Ensure it lists it as an Authentication Key and not a Signing Key.  
 9. Add your SSH key. You can now use GitHub using your machine from the command line. 
 
 ## OpenAI ChatPlus 
