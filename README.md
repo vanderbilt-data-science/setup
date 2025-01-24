@@ -22,9 +22,9 @@ Visit [https://www.anaconda.com/distribution/](https://www.anaconda.com/download
 
 ##  Git Install
 
-Visit https://git-scm.com/downloads and select the download for your operating system. Once the software has downloaded, execute it. 
+Visit https://git-scm.com/downloads and select the download for your operating system.  
 
-See https://happygitwithr.com/install-git.html for step-by-step guidance. 
+If you want more step-by-step guidance on this, see https://happygitwithr.com/install-git.html. 
 
 Set up your profile for your local git by following the directions at https://happygitwithr.com/hello-git.html. 
 
