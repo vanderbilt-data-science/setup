@@ -1,4 +1,4 @@
-# setup-clinic
+# Setup Clinic
 Software installation and configuration for new Data Science Master's students 
 
 ## Secure Passwords
@@ -12,7 +12,6 @@ If you do not already have a GitHub account, please visit https://github.com/ an
 Fill in the [DSI Master Student Account Information Form](https://forms.gle/5s6hjFNHCYP8rFtUA) and record your GitHub login. 
 
 You'll be invited to both the Vanderbilt Data Science organization (https://github.com/vanderbilt-data-science). 
-
 
 
 
@@ -63,19 +62,6 @@ You will need a ChatPlus (paid) subscription to OpenAI. This will be the equival
 
 If you are running MacOS, you already have access to Linux on your machine. If you are running Windows, you can enable Windows Subsystem for Linux. Follow the instructions at https://docs.microsoft.com/en-us/windows/wsl/install-win10. To run PowerShell as administrator (the first step in the documentation), tap the Windows key, then type `powershell`. Select `Run as Administrator` to the right. Continue with the instructions.
 
-
-## Printer Setup  **Skip for now**
-
-The printer in the DSI common area  is available for your use. It is \\print.it.vanderbilt.edu\DSI_Engineering_300. 
-
-To add the printer on a Mac, follow these  [directions](https://github.com/vanderbilt-data-science-masters-program/setup/blob/master/dsi_printer_setup_mac.md).
-
-To add a printer on a Windows machine, follow these 
-[directions]https://github.com/vanderbilt-data-science/setup/blob/master/dsi_printer_setup_windows.md).
-
-## Building Tour
-
-Take a walk and learn about the home of the Data Science Institute!  
 
 ## Slack
 
@@ -133,3 +119,17 @@ You'll be using VS Code for your first year programming course. You can [install
 
 ## Huggingface Account
 We'll be exploring the latest in AI architectures and approaches during the bootcamp. For this, you'll need a Huggingface account. The free account is sufficient. Sign up at [Huggingface.co](https://huggingface.co) using the Sign Up button at the top of the screen.
+
+## Printer Setup  
+**Skip for now**
+
+The printer in the DSI common area  is available for your use. It is \\print.it.vanderbilt.edu\DSI_Engineering_300. 
+
+To add the printer on a Mac, follow these  [directions](https://github.com/vanderbilt-data-science-masters-program/setup/blob/master/dsi_printer_setup_mac.md).
+
+To add a printer on a Windows machine, follow these 
+[directions]https://github.com/vanderbilt-data-science/setup/blob/master/dsi_printer_setup_windows.md).
+
+## Building Tour
+
+Take a walk and learn about the home of the Data Science Institute!  
