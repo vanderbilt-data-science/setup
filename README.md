@@ -14,7 +14,6 @@ Fill in the [DSI Master Student Account Information Form](https://forms.gle/5s6h
 You'll be invited to both the Vanderbilt Data Science organization (https://github.com/vanderbilt-data-science). 
 
 
-
 ## Anaconda
 
 Visit [https://www.anaconda.com/distribution/](https://www.anaconda.com/download) and enter your email. Select your operating system from the icons on the bar on the top of the page (the default is MacOS). Select the 64 bit Graphical Installer. Execute the software once it is downloaded.  
@@ -69,12 +68,6 @@ You should have received an invitation to join our Slack team, https://vandydata
 
 Be sure that you're also in the Data Science TIP Slack organization which is our main Slack org for data science work: https://datasciencetip.slack.com/ .
 
-## Coffee Maker, Ice Maker, Filtered Water
-
-As a DSI student, you have free access to the coffee machine in the common kitchen area. It is a Jura Impressa S9, and the operating manual is here https://us.jura.com/en/homeproducts/machines/IMPRESSA-S9-Classic-UL-13674/Manuals. 
-
-The coffee maker can make extra hot water to make tea! The control is on the right-hand side--be sure to set it for exra-hot. 
-
 
 ## Install R
 
@@ -117,6 +110,8 @@ Click on the green "Code" button on this page, and copy the web URL listed there
 ## VS Code Download
 You'll be using VS Code for your first year programming course. You can [install VS Code](https://code.visualstudio.com/download) using the Download button for your system on this page.
 
+Also see Cursor. [ADD HERE]
+
 ## Huggingface Account
 We'll be exploring the latest in AI architectures and approaches during the bootcamp. For this, you'll need a Huggingface account. The free account is sufficient. Sign up at [Huggingface.co](https://huggingface.co) using the Sign Up button at the top of the screen.
 
@@ -129,6 +124,12 @@ To add the printer on a Mac, follow these  [directions](https://github.com/vande
 
 To add a printer on a Windows machine, follow these 
 [directions]https://github.com/vanderbilt-data-science/setup/blob/master/dsi_printer_setup_windows.md).
+
+## Coffee Maker, Ice Maker, Filtered Water
+
+As a DSI student, you have free access to the coffee machine in the common kitchen area. It is a Jura Impressa S9, and the operating manual is here https://us.jura.com/en/homeproducts/machines/IMPRESSA-S9-Classic-UL-13674/Manuals. 
+
+The coffee maker can make extra hot water to make tea! The control is on the right-hand side--be sure to set it for exra-hot. 
 
 ## Building Tour
 
