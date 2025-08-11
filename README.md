@@ -110,7 +110,7 @@ Click on the green "Code" button on this page, and copy the web URL listed there
 ## VS Code Download
 You'll be using VS Code for your first year programming course. You can [install VS Code](https://code.visualstudio.com/download) using the Download button for your system on this page.
 
-Also see Cursor. [ADD HERE]
+If you are interested in AI-coding integrated into your IDE, also see Cursor: https://cursor.com/en
 
 ## Huggingface Account
 We'll be exploring the latest in AI architectures and approaches during the bootcamp. For this, you'll need a Huggingface account. The free account is sufficient. Sign up at [Huggingface.co](https://huggingface.co) using the Sign Up button at the top of the screen.
